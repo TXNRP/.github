@@ -5,7 +5,7 @@ Hey there, fellow gamer! You've found the GitHub organization that powers our Fi
 Alright, so this GitHub place is where we cook up all the goodness you see on the server. It's like our digital secret base where our squad of developers comes together to create, tweak, and keep our FiveM Roleplay server at its best.
 
 **What's the Lowdown?** <br>
-You're in for a treat! Inside our virtual vaults, we've got all the awesome stuff that makes our game server stand out. Think sweet vehicles, game-changing mechanics, and other cool tricks. Now, here's the twist - most of our repos are private. That means they're invite-only, super exclusive stuff. GitHub is our hidden lair where our team of devs collaborates like ninjas to keep everything in top shape.
+You're in for a treat! Inside our GitHub organization, we've got all the key components that make TX Network stand out. Think sweet vehicles, game-changing mechanics, and other cool tools. Now, here's the twist - most of our repositories are kept private which means they're invite-only, super exclusive stuff. GitHub is essentially our headquarters where our team of developers collaborate with one another to keep everything in top shape.
 
 **Ready to Join the Squad?** <br>
-You bet! If you've got the skills and want to be part of our gaming elite, head over to our main website, txnrp.com. Fill out a developer application, and who knows, you might get the secret handshake to join our crew. ([or just click here to be redirected](https://txnrp.com/form/developer-applications.43/select))
+You bet! If you've got the skills and want to be a part of our exclusive development team, head over to our main website txnrp.com, fill out a developer application, and who knows, you might get the chance to join our ~~shitposting~~ development team. ([or just click here to be redirected](https://txnrp.com/form/developer-applications.43/select))
